@@ -8,14 +8,10 @@
   ![image](train.png)
   # 2.Inference one image in 10 style
   >## input image
-  >>![image](/summer2winter_yosemite256_1/output000.jpg)
+  >>![image](/summer2winter_yosemite256_1/input.jpg)
   >>### style 1
-  >>![image](/summer2winter_yosemite256_1/)
-  >## situation2:lots of targets
-  >>### apple2orange
-  >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_Epoch200_02.PNG)
-  >>### orange2apple
-  >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_Epoch200_02.PNG)
+  >>![image](/summer2winter_yosemite256_1/output000.jpg) ![image](/summer2winter_yosemite256_1/output001.jpg)
+
   # 3.Compare with [Super fast color transfer between images](https://github.com/jrosebr1/color_transfer)
   >## situation1:white_base &only one target
   >>### apple2orange
