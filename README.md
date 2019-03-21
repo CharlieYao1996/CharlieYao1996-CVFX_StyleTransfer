@@ -7,16 +7,16 @@
   <br>
   ![image](train.png)
   # 2.Inference one image in 10 style
-  >## input image
+  >## Input image
   >>![image](/summer2winter_yosemite256_1/input.jpg)
-  >>### style 1-10
-  >>![image](/summer2winter_yosemite256_1/output000.jpg) ![image](/summer2winter_yosemite256_1/output001.jpg)
-  >>![image](/summer2winter_yosemite256_1/output002.jpg) ![image](/summer2winter_yosemite256_1/output003.jpg)
-  >>![image](/summer2winter_yosemite256_1/output004.jpg) ![image](/summer2winter_yosemite256_1/output005.jpg)
-  >>![image](/summer2winter_yosemite256_1/output006.jpg) ![image](/summer2winter_yosemite256_1/output007.jpg)
-  >>![image](/summer2winter_yosemite256_1/output008.jpg) ![image](/summer2winter_yosemite256_1/output009.jpg)
+  >### Style 1-10
+  >![image](/summer2winter_yosemite256_1/output000.jpg) ![image](/summer2winter_yosemite256_1/output001.jpg)
+  >![image](/summer2winter_yosemite256_1/output002.jpg) ![image](/summer2winter_yosemite256_1/output003.jpg)
+  >![image](/summer2winter_yosemite256_1/output004.jpg) ![image](/summer2winter_yosemite256_1/output005.jpg)
+  >![image](/summer2winter_yosemite256_1/output006.jpg) ![image](/summer2winter_yosemite256_1/output007.jpg)
+  >![image](/summer2winter_yosemite256_1/output008.jpg) ![image](/summer2winter_yosemite256_1/output009.jpg)
   
-  # 3.Compare with [Super fast color transfer between images](https://github.com/jrosebr1/color_transfer)
+  # 3.Compare with [neural-style](https://github.com/anishathalye/neural-style)
   >## situation1:white_base &only one target
   >>### apple2orange
   >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_ref_01.png)
