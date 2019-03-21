@@ -6,12 +6,11 @@
   While we find that [260000](https://drive.google.com/open?id=1rNTlx2EP3eSrqZApuqMtahHxBug94vxM) iterations have the best performance.
   <br>
   ![image](train.png)
-  # 2.Inference one image in 9 style
-  >## situation1:white_base &only one target
-  >>### apple2orange
-  >>![image](/summer2winter_yosemite256_1/input.jpg)
-  >>### orange2apple
-  >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_Epoch200_01.png)
+  # 2.Inference one image in 10 style
+  >## input image
+  >>![image](/summer2winter_yosemite256_1/output000.jpg)
+  >>### style 1
+  >>![image](/summer2winter_yosemite256_1/)
   >## situation2:lots of targets
   >>### apple2orange
   >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_Epoch200_02.PNG)
