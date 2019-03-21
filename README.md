@@ -16,13 +16,13 @@
   >![image](/summer2winter_yosemite256_1/output006.jpg) ![image](/summer2winter_yosemite256_1/output007.jpg)
   >![image](/summer2winter_yosemite256_1/output008.jpg) ![image](/summer2winter_yosemite256_1/output009.jpg)
   
-  # 3.Compare with [neural-style](https://github.com/anishathalye/neural-style)
+  # 3.Compare with [neural-style]
   >### Input image
   >### Style
   # 4.References:
-  >### FastPhotoStyle
-  >### neural-style
-  >### DRIT
+  >### [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)
+  >### [neural-style](https://github.com/anishathalye/neural-style)
+  >### [DRIT](https://github.com/HsinYingLee/DRIT)
 
 
 
