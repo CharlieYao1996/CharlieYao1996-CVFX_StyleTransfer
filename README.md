@@ -8,7 +8,7 @@
   ![image](train.png)
   # 2.Inference one image in 10 style
   >## Input image
-  >>![image](/summer2winter_yosemite256_1/input.jpg)
+  >![image](/summer2winter_yosemite256_1/input.jpg)
   >### Style 1-10
   >![image](/summer2winter_yosemite256_1/output000.jpg) ![image](/summer2winter_yosemite256_1/output001.jpg)
   >![image](/summer2winter_yosemite256_1/output002.jpg) ![image](/summer2winter_yosemite256_1/output003.jpg)
