@@ -19,5 +19,10 @@
   # 3.Compare with [neural-style](https://github.com/anishathalye/neural-style)
   >### Input image
   >### Style
-  # 4.conclusion
-  According to the above results, CycleGan has better performance in 2 situations. Since CycleGan though the repeatedly training sessions, it can identify the geometric of the target(apple or orange), than transfer the color to right position. Super fast color transfer just transfer the whole color pattarn from source to target, so in situation 1(white_base &only one target), the effect would irrational.
+  # 4.References:
+  >### FastPhotoStyle
+  >### neural-style
+  >### DRIT
+
+
+
