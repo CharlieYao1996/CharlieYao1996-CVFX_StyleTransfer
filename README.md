@@ -9,7 +9,7 @@
   # 2.Inference one image in 9 style
   >## situation1:white_base &only one target
   >>### apple2orange
-  >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_Epoch200_01.png)
+  >>![image](/summer2winter_yosemite256_1/input.jpg)
   >>### orange2apple
   >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_Epoch200_01.png)
   >## situation2:lots of targets
